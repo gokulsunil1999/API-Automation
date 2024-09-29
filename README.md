@@ -5,6 +5,7 @@ This project automates the validation of API responses using Cucumber, RestAssur
 ### Prerequisites
 
 Java (version 8 or higher)
+s
 Maven (version 3.6+)
 IDE (e.g., IntelliJ IDEA, Eclipse)
 Git (optional, for cloning the project)
